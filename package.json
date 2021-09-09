@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/Jsze5341/Jsze5341.github.io/Stock-Market-API-CS499.git",
-  "name": "my-app",
+  "homepage": "https://jsze5341.github.io/Stock-Market-API-CS499/",
+  "name": "Stock-Market-API",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
